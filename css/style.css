@@ -550,7 +550,6 @@ main .inner-wrap{
 }
 #software{
   background: radial-gradient(95.93% 95.93% at 50% 50%, #47464C 0%, #1E1E1E 100%);
-  border: 1px solid #000;
   overflow: hidden;
 }
 .soft-slide{
